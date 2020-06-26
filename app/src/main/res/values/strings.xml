@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mémo Kotlin</string>
+    <string name="content">Ajoutez un contenu ..</string>
+    <string name="save_memo">Enregistrer le mémo</string>
+    <string name="title">Titre</string>
+    <string name="color">Couleur</string>
+</resources>
